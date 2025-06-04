@@ -274,6 +274,11 @@ section.project-section {
   font-size: 15px;
 }
 
+.project-content h2 {
+  font-size: 30px;
+  color: var(--primary);
+}
+
 .project-content button > a {
   text-decoration: none;
   color: var(--dark-primary);
